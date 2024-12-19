@@ -1,4 +1,4 @@
-#### **Project Overview:**
+# **Project Overview:**
 
 This project is a SIEM (Security Information and Event Management) Log Analysis and Alerting System that collects, processes, and analyzes logs from various sources (servers, firewalls, network devices) to detect potential security incidents. The system features real-time alerting using email and Slack notifications when suspicious activities are detected, providing security teams with a comprehensive tool to monitor and respond to threats.
 
